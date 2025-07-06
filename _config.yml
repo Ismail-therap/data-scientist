@@ -1,5 +1,5 @@
 title: Md Ismail Hossain
-logo: /assets/img.png
+#logo: /assets/img.png
 #description: text below image
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
