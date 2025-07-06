@@ -1,6 +1,6 @@
 # 👨‍🔬 Md. Ismail Hossain
 
-📊 **Data Scientist | Biostatistician | Educator**  
+📊 **Data Scientist | Biostatistician | Data Analyst**  
 📍 Laramie, Wyoming | 📧 statistician71@gmail.com  
 🔗 [Upwork](https://www.upwork.com/freelancers/~018d99f84a77d6dbad) | [PeoplePerHour](https://www.peopleperhour.com/freelancer/technology-programming/md_ismail-hossain-data-scientist-qymwxa)
 
