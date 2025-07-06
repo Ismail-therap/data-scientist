@@ -1,8 +1,4 @@
-# Md. Ismail Hossain
- - Data Scientist  
-📍 Laramie, Wyoming | 📧 statistician71@gmail.com  
-
----
+# Data Scientist 
 
 ### 💻 Technical Skills
 **Languages & Tools:** Python, R, SQL, Power BI, SPSS, Stata, MATLAB, Tableau, Excel, Access, AzureML, AWS, Google Colab  
