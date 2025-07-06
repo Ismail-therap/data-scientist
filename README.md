@@ -1,4 +1,4 @@
-# 👨‍🔬 Md. Ismail Hossain
+# Md. Ismail Hossain
 
 📊 **Data Scientist | Biostatistician | Data Analyst**  
 📍 Laramie, Wyoming | 📧 statistician71@gmail.com  
